@@ -24,4 +24,4 @@ sudo systemctl daemon-reload
 
 ##### الان هر بار که بیایم توی سیستم به مشگل نمیخوریم
 
-####[references](https://www.youtube.com/watch?v=LkwZZIsY9uE&t=468s)
+[references](https://www.youtube.com/watch?v=LkwZZIsY9uE&t=468s)
